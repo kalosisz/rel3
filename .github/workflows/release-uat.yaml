@@ -28,3 +28,4 @@ jobs:
           labels: 'test: pending'
           release-labels: 'test: tagged'
           tag-separator: '/'
+          default-branch: uat
