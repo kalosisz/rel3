@@ -13,3 +13,4 @@ jobs:
       - run: |
           echo "Release ${{ github.sha }}"
           echo "Ref name ${{ github.ref_name }}"
+          echo ${${{ github.ref_name }}##*/}
