@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0-uat](https://github.com/kalosisz/rel3/compare/test/v1.0.0-uat...test/v1.1.0-uat) (2023-08-31)
+
+
+### Features
+
+* bello ([ed0ffeb](https://github.com/kalosisz/rel3/commit/ed0ffeba0d156c26fd804bcd4aa235b12d80f1e2))
+
 ## 1.0.0-uat (2023-08-31)
 
 
