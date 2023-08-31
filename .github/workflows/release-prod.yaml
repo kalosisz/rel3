@@ -26,3 +26,4 @@ jobs:
           labels: 'prod: pending'
           release-labels: 'prod: tagged'
           tag-separator: '/'
+          default-branch: prod
