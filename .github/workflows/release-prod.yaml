@@ -1,0 +1,28 @@
+on:
+  push:
+    branches:
+      - prod
+
+permissions:
+  contents: write
+  pull-requests: write
+
+name: release-please-prod
+
+concurrency: release-please-prod
+
+jobs:
+  release-please-test:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: google-github-actions/release-please-action@v3
+        name: release-please-prod
+        with:
+          token: ${{ secrets.TOKEN }}
+          release-type: go
+          component: prod
+          monorepo-tags: true
+          changelog-path: CHANGELOG/Prod.md
+          labels: 'prod: pending'
+          release-labels: 'prod: tagged'
+          tag-separator: '/'
