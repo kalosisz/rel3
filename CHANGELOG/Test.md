@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0-beta1](https://github.com/kalosisz/rel3/compare/v1.8.0-beta0...v1.8.0-beta1) (2023-09-01)
+
+
+### Features
+
+* newt ([2210788](https://github.com/kalosisz/rel3/commit/22107887f4fe19e0e13622bff9009bad9aecc49c))
+
 ## 1.8.0-beta0 (2023-09-01)
 
 
