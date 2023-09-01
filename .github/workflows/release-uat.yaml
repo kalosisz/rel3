@@ -22,10 +22,6 @@ jobs:
           release-type: go
           prerelease: true
           versioning-strategy: prerelease
-          component: test
-          monorepo-tags: true
           changelog-path: CHANGELOG/Test.md
-          labels: 'test: pending'
-          release-labels: 'test: tagged'
           tag-separator: '/'
           default-branch: main

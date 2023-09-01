@@ -23,7 +23,5 @@ jobs:
           component: prod
           monorepo-tags: true
           changelog-path: CHANGELOG/Prod.md
-          labels: 'prod: pending'
-          release-labels: 'prod: tagged'
           tag-separator: '/'
           default-branch: prod
