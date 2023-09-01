@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.8.0](https://github.com/kalosisz/rel3/compare/prod/v1.7.0...prod/v1.8.0) (2023-09-01)
+
+
+### Features
+
+* 22 ([1de6175](https://github.com/kalosisz/rel3/commit/1de6175940064b6aa5cd08009bd68e6726ea5492))
+
+
+### Miscellaneous Chores
+
+* **prod:** release 1.8.0-beta0 ([8f38eb4](https://github.com/kalosisz/rel3/commit/8f38eb4dd69b9429e597ac8e04bbed8119960bda))
+* release to prod ([#18](https://github.com/kalosisz/rel3/issues/18)) ([1e64850](https://github.com/kalosisz/rel3/commit/1e6485017b5b787034db1246b62b02c518568e91))
+
 ## 1.7.0 (2023-09-01)
 
 
