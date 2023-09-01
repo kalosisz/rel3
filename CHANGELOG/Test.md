@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0-beta3](https://github.com/kalosisz/rel3/compare/test/v1.7.0-beta2...test/v1.7.0-beta3) (2023-09-01)
+
+
+### Features
+
+* 22 ([1de6175](https://github.com/kalosisz/rel3/commit/1de6175940064b6aa5cd08009bd68e6726ea5492))
+
 ## [1.7.0-beta2](https://github.com/kalosisz/rel3/compare/test/v1.7.0-beta1...test/v1.7.0-beta2) (2023-09-01)
 
 
