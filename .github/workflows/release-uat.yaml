@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - uat
+      - main
 
 permissions:
   contents: write
@@ -28,4 +28,4 @@ jobs:
           labels: 'test: pending'
           release-labels: 'test: tagged'
           tag-separator: '/'
-          default-branch: uat
+          default-branch: main
